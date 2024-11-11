@@ -38,9 +38,4 @@ The project utilizes a customized CoppeliaSim scene featuring a quadcopter that 
 
 ## Results
 
-[Verify the output here.](https://github.com/anika-kamath/BCSE306-UAV-FruitHarvestSimulator/blob/main/CoppeliaSim_FruitDetection_UAVImaging.ipynb)
-
-4. Run the provided scripts to detect and track vehicles in videos:
-   ```
-   python vehicle_detection_tracking.py
-   ```
+- [Verify the output here.](https://github.com/anika-kamath/BCSE306-UAV-FruitHarvestSimulator/blob/main/CoppeliaSim_FruitDetection_UAVImaging.ipynb)
