@@ -36,16 +36,9 @@ The project utilizes a customized CoppeliaSim scene featuring a quadcopter that 
 
 3. Verify the processing of the model using the ipynb file:
 
-## Usage
+## Results
 
-1. Ensure you have access to a GPU. You can use the `!nvidia-smi` command to check GPU availability.
-   
-2. Download the pre-trained YOLOv8 model:
-   ```
-   !gdown 'pre-trained-model-url'
-   ```
-
-3. Load the pre-trained YOLOv8 model and set up the Supervision library.
+[Verify the output here.](https://github.com/anika-kamath/BCSE306-UAV-FruitHarvestSimulator/blob/main/CoppeliaSim_FruitDetection_UAVImaging.ipynb)
 
 4. Run the provided scripts to detect and track vehicles in videos:
    ```
